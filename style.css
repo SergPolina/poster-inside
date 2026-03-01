@@ -1,6 +1,8 @@
 @font-face {
   font-family: "MinecraftRus";
   src: url("fonts/minecraft.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 * {
